@@ -1,6 +1,3 @@
-# rn-flatlist-infinite-scroll
-React Native FlatList Infinite Scroll Sample
-
 <div align="center">
   
 # React Native FlatList Infinite Scroll
@@ -25,4 +22,4 @@ React Native FlatList Infinite Scroll Sample
 
 ### License
 
-React-AsyncStorage-Example is [MIT licensed](./LICENSE).
+rn-flatlist-infinite-scroll [MIT licensed](./LICENSE).
